@@ -1,0 +1,102 @@
+body{
+    background-color: #273238;
+}
+
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: #698593;
+    background-color: white;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color:#D0D8DC;
+}
+
+/* ! ASPIRADORA */
+
+.aspiradorah2{
+    font-family:Arial;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: 900;
+    color: #EAD4CA;
+}
+
+.aspiradoraimg{
+    border: 5px solid #EBD0C6;
+    margin-left: 50px;
+}
+
+
+/* ? CELULARES */
+
+.celularesh2{
+    font-family:Arial;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: 900;
+    color: #B2CFD5;
+}
+
+.celularesimg{
+    border: 5px solid #B2CFD5;
+    margin-left: 50px;
+}
+
+
+/** CONSOLAS */
+
+.consolash2{
+    font-family:Arial;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: 900;
+    color: #E9EAEC;
+}
+
+.consolasimg{
+    border: 5px solid #E9EAEC;
+    margin-left: 50px;
+}
+
+
+/* ! HOME-THEATERS */
+
+.hometheatersh2{
+    font-family:Arial;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: 900;
+    color: #6B6F7A;
+}
+
+.hometheatersimg{
+    border: 5px solid #6B6F7A;
+    margin-left: 50px;
+}
+
+
+/** TELEVISORES */
+
+.televisoresh2{
+    font-family:Arial;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: 900;
+    color: #AFAEA9;
+}
+
+.televisoresimg{
+    border: 5px solid #AFAEA9;
+    margin-left: 50px;
+}
