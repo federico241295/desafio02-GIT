@@ -1,0 +1,60 @@
+.disney{
+    display: block;
+    margin:auto;
+    width: 400px;
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-size: 50px;
+    font-weight: 200;
+    letter-spacing: 10px;
+    color: #BB5397;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    color: #BB5397;
+}
+
+p{
+    font-family:'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-size: 20px;
+    font-weight: 500;
+    color: #3B63A6;
+}
+
+/* ! IMAGENES */
+.popcentury{
+    float: right;
+}
+
+
+.caribbean-beach-resort{
+    float: left;
+    margin-right: 10px;
+}
+
+.animal-kingdom-img{
+    float: right;
+    margin-left: 10px;
+}
+
+.mickey{
+    width: 100%;
+}
+
+/* H2 */
+.beachresort{
+    margin-top: 100px;
+}
+
+.animal-kingdom{
+    margin-top: 100px;
+    text-align: center;
+}
